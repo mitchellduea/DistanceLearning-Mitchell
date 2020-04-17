@@ -37,9 +37,9 @@ int greatestDiff(int nums[], int mixedNums){
   for (i= 0; i < nums.size; i ++);{
 
   }
-  for (j= 1; j < mixedNums.size; j++;){
+  for (b= 1; b < mixedNums.size; b++;){
 
-    
+
   }
   return greatestDiff;
 }
